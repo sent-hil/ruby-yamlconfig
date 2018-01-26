@@ -1,0 +1,10 @@
+namespace1:
+  key2: "overriden from default"
+namespace2:
+  key1: "only in development"
+namespace3:
+  key1:
+    key2:
+      key3:
+        key4:
+          "deeply nested"
